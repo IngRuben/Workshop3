@@ -11,7 +11,7 @@
     "node.js",
     "backend"
   ],
-  "author": "Ruben Dario Gomez",
+  "author": "ruben dario gomez",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
